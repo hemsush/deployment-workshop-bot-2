@@ -50,6 +50,7 @@
 - so sad
 - this is pretty cool but need time
 - ok
+- i am ok
 
 ## intent:bot_challenge
 - are you a bot?
